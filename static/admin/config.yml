@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: cmarabate/grayscale-promo-gatsbyjs-starter
+    repo: cmarabate/gatsby-starter-grayscale-promo
 media_folder: static/assets
 public_folder: assets
 media_folder_relative: true
